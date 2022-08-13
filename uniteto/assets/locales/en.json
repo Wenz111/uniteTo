@@ -1,0 +1,18 @@
+{
+  "app_title": "Project Rabbit",
+  "title": "Project Rabbit",
+  "home_screen": "Home Screen",
+  "change_language": "Change language",
+  "go_to_pikachu_screen": "Go to Pikachu Screen!",
+
+  "general_section": "=============================================================",
+  "general_error": "Oops, something unexpected happened",
+  "general_cancel": "Cancel",
+  "general_ok":  "Ok",
+
+  "locale_section": "=============================================================",
+  "language_header": "Languages",
+
+  "pikachu_section": "=============================================================",
+  "pikachu_button": "LEARN MORE"
+}

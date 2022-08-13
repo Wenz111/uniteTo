@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Pikachu #1",
+    "subtitle": "Original Pikachu",
+    "image_path": "assets/images/pikachus/pika (1).png",
+    "content": "The #1 original and cutest Pikachu!"
+  },
+  {
+    "id": 2,
+    "title": "Pikachu #2",
+    "subtitle": "Cool Pikachu",
+    "image_path": "assets/images/pikachus/pika (2).png",
+    "content": "Pikachu with a cool sweater!"
+  },
+  {
+    "id": 3,
+    "title": "Pikachu #3",
+    "subtitle": "Summer Pikachu",
+    "image_path": "assets/images/pikachus/pika (3).png",
+    "content": "Pikachu with a summer outfit!"
+  },
+  {
+    "id": 4,
+    "title": "Pikachu #4",
+    "subtitle": "Unite Orange Team Pikachu",
+    "image_path": "assets/images/pikachus/pika (4).png",
+    "content": "Pikachu with an orange team outfit!"
+  },
+  {
+    "id": 5,
+    "title": "Pikachu #5",
+    "subtitle": "Unite Purple Team Pikachu",
+    "image_path": "assets/images/pikachus/pika (5).png",
+    "content": "Pikachu with a purple team outfit!"
+  },
+  {
+    "id": 6,
+    "title": "Pikachu #6",
+    "subtitle": "Summer Festival Pikachu",
+    "image_path": "assets/images/pikachus/pika (6).png",
+    "content": "Pikachu with a summer festival outfit!"
+  }
+]
